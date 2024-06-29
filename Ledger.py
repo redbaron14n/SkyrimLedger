@@ -17,5 +17,6 @@ def main():
     """
 
     mm.show_menu()
+    mm.get_menu_choice()
 
 main()
