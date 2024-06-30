@@ -2,5 +2,8 @@
 
 !.gitignore
 !Ledger.py
+!ListInterpreter.py
+!Lists
+!Lists/*.list
 !MainMenu.py
 !README.md
